@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [GitHub]()
--   Live Site URL: [Vercel]()
+-   Solution URL: [GitHub](https://github.com/mikailafsin/frontend-mentor-blog-preview-card-solution)
+-   Live Site URL: [Vercel](https://frontend-mentor-blog-preview-card-solution-rho.vercel.app/)
 
 ## My process
 
